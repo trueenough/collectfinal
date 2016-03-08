@@ -8,7 +8,7 @@ $(document).ready(function() {
 
 	var h = window.innerHeight - 175;
 
-	var bgcolor = ["brown", "cadetblue", "darkolivegreen", "darkorange", "goldenrod", "yellowgreen", "tomato", "slategray", "palevioletred", "mediumvioletred", "teal"];
+	var bgcolor = ["brown", "cadetblue", "darkolivegreen", "darkorange", "goldenrod", "yellowgreen", "tomato", "slategray", "palevioletred", "darkmagenta", "teal"];
 
 	var bgimg = ["object-atari-200.png", "object-donutphone-200.png", "object-jfk-200.png", "object-juicysalif-200.png", "object-lettera-200.png", "object-pickle-200.png", "object-readymade-200.png", "object-sweetie-200.png", "object-teacup-200.png", "object-praxis-200.png", "object-ericofon-200.png", "object-kodak-200.png"];
 
